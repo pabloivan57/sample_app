@@ -1,5 +1,7 @@
 require 'spec_helper'
 
+include ApplicationHelper
+
 describe User do
 
   before do
